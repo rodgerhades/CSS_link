@@ -1,0 +1,24 @@
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: small;
+}
+
+.p1{
+	font-family: verdana, geneva, arial, sans-serif;
+
+}
+
+.p2{
+	font-family: "Times new roman", times, serif;
+	font-style: italic;
+}
+
+a: link{
+	color:green;
+}
